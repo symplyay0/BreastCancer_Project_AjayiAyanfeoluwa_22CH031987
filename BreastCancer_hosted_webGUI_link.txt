@@ -1,0 +1,6 @@
+Name: Ajayi Ayanfeoluwa
+Matric Number: 22CH031987
+Machine Learning Algorithm Used: SVM
+Model persistence method used: Joblib
+Live URL of hosted application: <your-live-link>
+GitHub repository link: <your-github-link>
